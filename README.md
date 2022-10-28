@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: gaganachanur@gmail.com , 9591557009
 - ⚡ Fun fact: I am gamer You can Catch by seening my profile photo
 
-<a href="https://app.daily.dev/Gagan0007"><img src="https://api.daily.dev/devcards/8e863ed190c34a43b29e359a6ed939d8.png?r=9o5" width="400" alt="gaganachanur's Dev Card"/></a>
+<a href="https://app.daily.dev/Gagan0007"><img src="https://api.daily.dev/devcards/8e863ed190c34a43b29e359a6ed939d8.png?r=9vp" width="400" alt="gaganachanur's Dev Card"/></a>
 
 [![@gaganachanur's Holopin board](https://holopin.me/gaganachanur)](https://holopin.io/@gaganachanur)
