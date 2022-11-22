@@ -16,13 +16,6 @@ Here are some ideas to get you started:
 
 Please check out my portfolio which i created using Next JS
 - ![qrcode_portfolio-gaganachanur vercel app](https://user-images.githubusercontent.com/76946122/203256717-dae0a0c9-62a2-40ea-ac31-f867249c35ab.png)
-
-<a href="[https://app.daily.dev/Gagan0007](https://user-images.githubusercontent.com/76946122/203256717-dae0a0c9-62a2-40ea-ac31-f867249c35ab.png)"><img src="[https://api.daily.dev/devcards/8e863ed190c34a43b29e359a6ed939d8.png?r=sq2](https://user-images.githubusercontent.com/76946122/203256717-dae0a0c9-62a2-40ea-ac31-f867249c35ab.png)" width="200" alt="gaganachanur's Dev Card"/></a>
-
-
-
-
-
 <a href="https://app.daily.dev/Gagan0007"><img src="https://api.daily.dev/devcards/8e863ed190c34a43b29e359a6ed939d8.png?r=sq2" width="400" alt="gaganachanur's Dev Card"/></a>
 
 [![@gaganachanur's Holopin board](https://holopin.me/gaganachanur)](https://holopin.io/@gaganachanur)
