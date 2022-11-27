@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 Please check out my portfolio which i created using Next JS 
 https://portfolio-gaganachanur.vercel.app/
 
+checkout My blogs in Medium https://medium.com/@gaganachanur
+
 <a href="https://app.daily.dev/Gagan0007"><img src="https://api.daily.dev/devcards/8e863ed190c34a43b29e359a6ed939d8.png?r=sq2" width="400" alt="gaganachanur's Dev Card"/></a>
 
 [![@gaganachanur's Holopin board](https://holopin.me/gaganachanur)](https://holopin.io/@gaganachanur)
