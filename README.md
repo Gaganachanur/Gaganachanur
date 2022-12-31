@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on exciting projects
 - 💬 Ask me about coding and software development
 - 📫 How to reach me: gaganachanur@gmail.com , 9591557009
-- ⚡ Fun fact: I am gamer 
+- ⚡ Fun fact: I am a hobby Gamer 
 
 Please check out my portfolio which i created using Next JS 
 https://portfolio-gaganachanur.vercel.app/
