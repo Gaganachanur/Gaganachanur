@@ -7,7 +7,7 @@ Hi there it's Gagan 👋
 Here are some ideas to get you started:
 -->
 
-🔭 I’m currently working in Byjus
+🔭 I’m currently working in Tecnotree Flex
 - 🌱 I’m currently learning React Native And working on my DSA
 - 👯 I’m looking to collaborate on exciting projects
 - 💬 Ask me about coding and software development
